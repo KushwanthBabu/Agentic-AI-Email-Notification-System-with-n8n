@@ -45,6 +45,8 @@ OpenAI (AI Reasoning)
 ↓
 Gmail (Send Email)
 
+<img width="1566" height="671" alt="workflow-canvas png" src="https://github.com/user-attachments/assets/17b4f780-ad68-452c-8558-8f1604488326" />
+
 ---
 ## ⚙️ How the Workflow Works
 
