@@ -94,13 +94,6 @@ These demonstrate the agent working in real conditions.
 - AI-powered notification systems  
 - Intelligent email assistants  
 - AI + automation learning projects  
-- Agentic AI portfolio demonstration  
-
----
-
-## 📄 Resume-Ready Description
-
-> Built an agentic AI workflow using n8n that reasons over input context with LLMs and performs real-world actions via Gmail automation.
 
 ---
 
